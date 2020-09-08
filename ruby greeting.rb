@@ -1,2 +1,0 @@
-$ ruby greeting.rb
-$
